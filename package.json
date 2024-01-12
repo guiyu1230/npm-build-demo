@@ -1,0 +1,15 @@
+{
+  "name": "npm-build-demo",
+  "version": "1.0.0",
+  "description": "rollup、esbuild、vite、swc、webpack、ts打包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.16.0"
+  }
+}
